@@ -7,7 +7,6 @@ wheels/
 *.egg-info
 .DS_Store
 .vscode/
-.env
 .cursor/
 
 # Virtual environments
@@ -19,3 +18,5 @@ wheels/
 
 # Superpowers agent artifacts (implementation plans, etc.)
 docs/superpowers/
+config.bat
+node_modules
