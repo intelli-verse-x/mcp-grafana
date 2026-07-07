@@ -7,8 +7,6 @@ dist/
 wheels/
 *.egg-info
 .DS_Store
-.vscode/
-.env
 .cursor/
 
 # UI app build artifacts
@@ -23,3 +21,5 @@ ui/*/node_modules/
 
 # Superpowers agent artifacts (implementation plans, etc.)
 docs/superpowers/
+config.bat
+node_modules
