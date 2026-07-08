@@ -6,6 +6,7 @@ Check Markdown links in documentation.
 Usage: ./links.py <DOCS_SOURCE_PATH>
 """
 
+import internal.session
 import os
 import re
 import sys
